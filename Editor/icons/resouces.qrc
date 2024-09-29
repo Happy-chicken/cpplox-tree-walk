@@ -1,0 +1,8 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource prefix="icons">
+    <file>close.png</file>
+    <file>folder.png</file>
+    <file>search.png</file>
+    <file>setting.png</file>
+</qresource>
+</RCC>
